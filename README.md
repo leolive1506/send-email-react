@@ -7,3 +7,11 @@
 - referencia ao elemento html
 - atraves dessa ref paga valor e faz manipulação do html
 - forma de mexer no html deixando react ciente
+
+# [TanStack query](https://tanstack.com/query/latest/docs/react/installation)
+- cache de requisições
+- adiciona controles de sload, sucesso, erro
+- mecanismo de refetch
+
+# Dicas gerais
+- padrões react chamar as requisições POST -> mutation
